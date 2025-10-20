@@ -28,3 +28,9 @@ O crescimento do mercado de apostas no Brasil trouxe aumento em comportamento co
 
 ## Tecnologias
 - Java 17, Spring Boot 3.x, Spring Security, JWT (jjwt), Spring Data JPA, H2 (dev), springdoc-openapi, JUnit5, Mockito.
+
+## 👥 Integrantes
+- RM551059 | Cassio Valezzi  
+- RM98215 | Gabriel Antony Cadima Ciziks 
+- ⁠RM98169 | Lucca Sabatini Tambellini
+- RM550781 | Sabrina Flores Morais
